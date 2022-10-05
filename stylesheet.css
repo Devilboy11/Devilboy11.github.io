@@ -89,6 +89,10 @@ size: 100%;
 .websites{
   padding: 5%;
 }
+.websites a img{
+  height: 180px;
+  width: 180px;
+}
 .instagram{
   padding: 5%;
 }
